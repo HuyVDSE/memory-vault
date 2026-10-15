@@ -203,8 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "28faf1b9ef7e8d52",
+  "active": "ba7c39a41cc84c6f",
   "lastOpenFiles": [
+    "gitignore",
+    "gitignore.txt",
+    "New Text Document.txt",
     "Phan-biet-chuc-nang-don-gian-va-phuc-tap.md",
     "Nghi-don-gian-kho-lam-de.md",
     "Untitled.base",

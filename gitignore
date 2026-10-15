@@ -1,0 +1,21 @@
+# Obsidian: trạng thái giao diện (đổi liên tục, hay gây conflict)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian: cấu hình riêng của từng plugin (có thể chứa API key/token)
+.obsidian/plugins/*/data.json
+
+# Obsidian: thùng rác nội bộ
+.trash/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# File tạm và backup của editor
+*.tmp
+*.bak
+~$*
